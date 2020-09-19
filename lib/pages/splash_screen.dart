@@ -38,13 +38,7 @@ class _SplashScreenState extends State<SplashScreen> {
                       Padding(
                         padding: EdgeInsets.only(top: 10.0),
                       ),
-                      // Text(
-                      //   Flutkart.name,
-                      //   style: TextStyle(
-                      //       color: Colors.white,
-                      //       fontWeight: FontWeight.bold,
-                      //       fontSize: 24.0),
-                      // )
+                      
                     ],
                   ),
                 ),
@@ -61,15 +55,7 @@ class _SplashScreenState extends State<SplashScreen> {
                     Padding(
                       padding: EdgeInsets.only(top: 20.0),
                     ),
-                    // Text(
-                    //   Flutkart.store,
-                    //   softWrap: true,
-                    //   textAlign: TextAlign.center,
-                    //   style: TextStyle(
-                    //       fontWeight: FontWeight.bold,
-                    //       fontSize: 18.0,
-                    //       color: Colors.white),
-                    // )
+                    
                   ],
                 ),
               )
